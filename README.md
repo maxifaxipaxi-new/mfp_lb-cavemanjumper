@@ -1,5 +1,5 @@
 # Caveman Jumper
-LB-Phone Custom App - Game - Caveman Jumper
+A funny LB-Phone Custom App as a Game named Caveman Jumper. Little Jump game, perfect for a FiveM Phone game.
 
 ![banner](https://github.com/user-attachments/assets/374ff924-b8ec-4441-9b26-976a9e86ffa2)
 
